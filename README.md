@@ -26,3 +26,5 @@ The following guides illustrate how to use some features concretely:
 
 1. First run the comsumer then it will show it is waiting
 2. Then run the producer.
+3. Check in the cmd all the massages shown over there
+
